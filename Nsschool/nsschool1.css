@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+#enquiry_ref{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(81, 81, 255);
+    padding: 10px 20px;
+    border-radius: 10px; 
+}
+#newflex_one{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#cont_bg{
+    background-color: aliceblue;
+}
+#overview{
+    background-color: rgb(87, 87, 187);
+}
+#overview_cont{
+    font-size:20px;
+}
+
+#common_bg{
+    background-color: aliceblue;
+}
+#mid_banner{
+    background-color: green;
+}
+
+
+#float{
+    float: right;
+}
